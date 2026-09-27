@@ -25,7 +25,8 @@ Figma · UI/UX · Interaction design · Prototyping
 ---
 
 ### Currently curious about
-- Design × code — bringing interfaces to life and understanding how things work beneath the surface.
-- Music × interaction — exploring how we discover, experience, and play with sound.
-- Motion & 3D — adding movement, depth, and a little personality to digital experiences.
-- Everyday UX — noticing small frustrations and wondering how design could make them easier.
+- **Design × code** — bringing interfaces to life and understanding how things work beneath the surface.
+- **Music × interaction** — exploring how we discover, experience, and play with sound.
+- **Motion & 3D** — adding movement, depth, and a little personality to digital experiences.
+- **Everyday UX** — noticing small frustrations and wondering how design could make them easier.
+- **Data × storytelling** — finding patterns in data and turning them into clear, meaningful stories.
