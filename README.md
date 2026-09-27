@@ -1,5 +1,4 @@
 ## Hi, I'm Adine 👋
-(she/her)
 
 ### Mostly designing. Occasionally convincing my code to work.
 
@@ -15,11 +14,16 @@ Based in Brisbane, Australia 🇦🇺 · From Jakarta, Indonesia 🇮🇩
 
 ### My toolkit
 
-**Design** · Figma · UI/UX · Interaction design · Prototyping
+**Design**  
+Figma · UI/UX · Interaction design · Prototyping
 
-**Building & exploring** · HTML · CSS · JS · Python · Django · Unity · C#
+**Building & exploring**  
+`HTML` `CSS` `JavaScript` `Python` `Unity` `C#`
 
 ---
 
-I'm all about staying fresh! I'm constantly learning new stuff and playing with new tools. 
-I love experimenting and making sure my works are always on point.
+### Currently curious about
+- Design × code — bringing interfaces to life and understanding how things work beneath the surface.
+- Music × interaction — exploring how we discover, experience, and play with sound.
+- Motion & 3D — adding movement, depth, and a little personality to digital experiences.
+- Everyday UX — noticing small frustrations and wondering how design could make them easier.
