@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I'm Adine 👋
+(she/her)
 
-<!--
-**adinesva/adinesva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mostly designing. Occasionally convincing my code to work.
 
-Here are some ideas to get you started:
+Product designer with a background in visual design and business,
+currently pursuing a Master of Interaction Design
+at The University of Queensland.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Brisbane, Australia 🇦🇺 · From Jakarta, Indonesia 🇮🇩
+
+[Explore my portfolio ↗](https://adinesva.framer.website/)
+
+---
+
+### My toolkit
+
+**Design** · Figma · UI/UX · Interaction design · Prototyping
+
+**Building & exploring** · HTML · CSS · JS · Python · Django · Unity · C#
+
+---
+
+I'm all about staying fresh! I'm constantly learning new stuff and playing with new tools. 
+I love experimenting and making sure my works are always on point.
