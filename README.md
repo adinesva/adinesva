@@ -1,3 +1,5 @@
+![Adine Sava — Product Designer](github-banner.png)
+
 ## Hi, I'm Adine 👋
 
 ### Mostly designing. Occasionally convincing my code to work.
